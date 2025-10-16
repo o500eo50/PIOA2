@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\popov_11\popov_11\bin\Debug\popov_11.exe
+C:\Users\user\source\repos\popov_11\popov_11\bin\Debug\popov_11.pdb
+C:\Users\user\source\repos\popov_11\popov_11\obj\Debug\popov_11.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\popov_11\popov_11\obj\Debug\popov_11.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\popov_11\popov_11\obj\Debug\popov_11.exe
+C:\Users\user\source\repos\popov_11\popov_11\obj\Debug\popov_11.pdb
