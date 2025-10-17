@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\popov_9\popov_9\bin\Debug\popov_9.exe
-C:\Users\user\source\repos\popov_9\popov_9\bin\Debug\popov_9.pdb
-C:\Users\user\source\repos\popov_9\popov_9\obj\Debug\popov_9.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\popov_9\popov_9\obj\Debug\popov_9.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\popov_9\popov_9\obj\Debug\popov_9.exe
-C:\Users\user\source\repos\popov_9\popov_9\obj\Debug\popov_9.pdb

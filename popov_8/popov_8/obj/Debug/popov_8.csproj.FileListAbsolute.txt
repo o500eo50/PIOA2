@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\popov_8\popov_8\bin\Debug\popov_8.exe
-C:\Users\user\source\repos\popov_8\popov_8\bin\Debug\popov_8.pdb
-C:\Users\user\source\repos\popov_8\popov_8\obj\Debug\popov_8.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\popov_8\popov_8\obj\Debug\popov_8.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\popov_8\popov_8\obj\Debug\popov_8.exe
-C:\Users\user\source\repos\popov_8\popov_8\obj\Debug\popov_8.pdb
